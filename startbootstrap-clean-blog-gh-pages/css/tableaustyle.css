@@ -1,0 +1,23 @@
+.mainbody {
+    top:430px;
+    left:20px;
+    right: 20px;
+    bottom:50px;
+    font-weight: 30px;
+    padding:50px;
+    background-color: #ebcfc4
+}
+.footer {
+    bottom: 10px;
+    left:5px;
+    right: 5px;
+    height: 10px;
+    font-size: 15px;
+    color: #5e5c5c;
+    text-align: center;
+}
+.subheader {
+    float: right;
+    color: black;
+
+}
